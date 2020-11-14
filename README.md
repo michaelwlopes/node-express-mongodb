@@ -1,6 +1,6 @@
 #JAVASCRIPT Node (NODEJS)
 
-##O que aprendi nessa mmódulo.
+##O que aprendi nessa módulo.
 
  1- Módulos 1
 
